@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+@import "fontawesome/font-awesome";
+
+// Import partials.
+@import
+  "rootpath/variables",
+  "rootpath/normalize",
+  "rootpath/base",
+  "rootpath/typography",
+  "rootpath/buttons",
+  "rootpath/forms",
+  "rootpath/footer",
+  "rootpath/banner",
+  "rootpath/layout"
+;
+
+.page-content {
+  padding: 2rem;
+}

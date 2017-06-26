@@ -1,0 +1,108 @@
+//Default styles
+
+html {
+ box-sizing: border-box;
+}
+*, *:before, *:after {
+ box-sizing: inherit;
+}
+
+ul {
+  &:not(.browser-default) {
+    padding-left: 0;
+    list-style-type: none;
+
+    li {
+      list-style-type: none;
+    }
+  }
+
+  &.inline li {display: inline;}
+}
+
+// Positioning
+.valign-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+
+// classic clearfix
+.clearfix {
+  clear: both;
+}
+
+.hoverable {
+  transition: box-shadow .25s;
+  box-shadow: 0;
+}
+
+.hoverable:hover {
+  transition: box-shadow .25s;
+  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+// Dividers
+
+.divider {
+  height: 1px;
+  overflow: hidden;
+  background-color: rgba(0,0,0,0.1);
+}
+
+/*******************
+  Utility Classes
+*******************/
+
+.hide {
+  display: none !important;
+}
+
+// Text Align
+.left-align {
+  text-align: left;
+}
+.right-align {
+  text-align: right
+}
+.center, .center-align {
+  text-align: center;
+}
+
+.left {
+  float: left !important;
+}
+.right {
+  float: right !important;
+}
+
+// No Text Select
+.no-select {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.circle {
+  border-radius: 50%;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.truncate {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.no-padding {
+  padding: 0 !important;
+}

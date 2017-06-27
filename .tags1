@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+h	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<h1>Home Page <strong>Boyahh<\/strong><\/h1>$/;"	function	line:4
+p	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<p>This is some <strong>strong stuff<\/strong> here.<\/p>$/;"	function	line:6
+h	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<h1>This is a heading one<\/h1>$/;"	function	line:8
+h	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<h2>This is a heading two<\/h2>$/;"	function	line:9
+h	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<h3>This is a heading three<\/h3>$/;"	function	line:10
+h	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<h4>This is a heading four<\/h4>$/;"	function	line:11
+h	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<h5>This is a heading five<\/h5>$/;"	function	line:12
+p	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<p class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi hic totam deleniti reprehenderit cupiditate fugiat, libero distinctio, perferendis nostrum accusantium consectetur soluta? Asperiores nemo unde esse repellendus obcaecati, quasi laborum.<\/p>$/;"	function	line:14
+p	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<p>Lorem ipsum dolor sit amet, <a href="#">consectetur adipisicing<\/a> elit. Dolorem enim, beatae veniam deserunt temporibus deleniti. Quod dolore sed doloribus voluptatibus repudiandae iste, odio soluta totam libero labore, alias autem quasi?<\/p>$/;"	function	line:16
+a	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<a href="#" class="btn">I am a button<\/a>$/;"	function	line:18
+a	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<a href="#" class="btn secondary">I am a button<\/a>$/;"	function	line:19
+button	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<button>Press Me<\/button>$/;"	function	line:21
+input	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<input type="submit" value="Submit">$/;"	function	line:22
+input	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<input type="submit" class="secondary" value="Submit">$/;"	function	line:23
+input	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<input type="text" class="form-control">$/;"	function	line:25
+div	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<div class="banner">$/;"	function	line:27
+div	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^  <div class="banner-contents">$/;"	function	line:28
+h	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^    <h2>This is a <strong>banner<\/strong><\/h2>$/;"	function	line:29
+p	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^    <p class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium perferendis veritatis vitae corporis mollitia incidunt molestiae numquam, error maxime porro dicta voluptas deserunt inventore ut minus. Ducimus repellat cumque praesentium?<\/p>$/;"	function	line:30
+a	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^    <a href="#" class="btn">Click Me<\/a>$/;"	function	line:31
+ul	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<ul class="browser-default">$/;"	function	line:35
+li	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^  <li>Top Bar<\/li>$/;"	function	line:36
+li	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^  <li>Navigation Overlay<\/li>$/;"	function	line:37
+li	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^  <li>Programme Box<\/li>$/;"	function	line:38
+li	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^  <li>Course Page Template<\/li>$/;"	function	line:39

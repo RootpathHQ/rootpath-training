@@ -1,0 +1,39 @@
+.programme {
+  width: 100%;
+
+  .module {
+    border-top: 1px solid rgba(0,0,0,0.2);
+    padding: 2rem;
+
+    > h5 {
+      color: rgba($off-black, .5);
+      letter-spacing: 0;
+    }
+  }
+
+  h5 {
+    text-transform: uppercase;
+    font-variant: small-caps;
+    font-weight: 700;
+    letter-spacing: .1em;
+  }
+
+  ul li {
+      list-style-type: disc;
+      margin-left: 1rem;
+  }
+
+  @media screen and (min-width: 35rem) {
+    display: table;
+
+    h5 {
+      min-width: 10rem;
+      display: table-cell;
+    }
+
+    .module-contents {
+      width: 100%;
+      display: table-cell;
+    }
+  }
+}

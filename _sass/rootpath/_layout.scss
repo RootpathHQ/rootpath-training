@@ -7,3 +7,20 @@ body {
 .page-content {
   flex: 1;
 }
+
+
+.main-content {
+  padding: 2rem;
+  max-width: 90rem;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 70rem) {
+  .left-column, .right-column {
+    width: 50%;
+    float: left;
+    margin-bottom: 3rem;
+  }
+  .left-column {padding-right: 1rem;}
+  .right-column {padding-left: 1rem;}
+}

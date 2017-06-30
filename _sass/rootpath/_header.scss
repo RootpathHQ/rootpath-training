@@ -17,23 +17,11 @@
     width: 100px;
   }
 
-  .nav-button {
-    display: inline;
+  .nav-button-open {
     position: absolute;
     line-height: 1;
-    right: 2rem;
-    top: 1rem;
-    font-size: 2.5rem;
-  }
-
-  .nav-button-open::after {
-    color: $white;
-    content: "\f0c9";
-    font-family: "FontAwesome";
-    transition-property: all .2s linear 0s;
-  }
-
-  .nav-button-open:hover::after {
-    color: $yellow;
+    right: 1.5rem;
+    top: 1.5rem;
+    font-size: 2rem;
   }
 }

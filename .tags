@@ -89,23 +89,6 @@ body	/Users/danny/Desktop/rootpath-training/_sass/rootpath/_layout.scss	/^body {
 .page-content	/Users/danny/Desktop/rootpath-training/_sass/rootpath/_layout.scss	/^.page-content {$/;"	function	line:7
 body	/Users/danny/Desktop/rootpath-training/_sass/rootpath/_layout.scss	/^body {$/;"	function	line:1
 .page-content	/Users/danny/Desktop/rootpath-training/_sass/rootpath/_layout.scss	/^.page-content {$/;"	function	line:7
-div	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^<div class="navigation-overlay">$/;"	function	line:1
-nav	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^  <nav>$/;"	function	line:2
-h	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^    <h4>Courses<\/h4>$/;"	function	line:3
-ul	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^    <ul>$/;"	function	line:4
-li	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^      <li><a href="#">Technical Lead<\/a><\/li>$/;"	function	line:5
-li	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^      <li><a href="#">Introduction to Ruby<\/a><\/li>$/;"	function	line:6
-li	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^      <li><a href="#">Web Development<\/a><\/li>$/;"	function	line:7
-li	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^      <li><a href="#">Web Development<\/a><\/li>$/;"	function	line:8
-li	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^      <li><a href="#">Web Development<\/a><\/li>$/;"	function	line:9
-li	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^      <li><a href="#">Web Development<\/a><\/li>$/;"	function	line:10
-li	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^      <li><a href="#">Web Development<\/a><\/li>$/;"	function	line:11
-li	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^      <li><a href="#">Web Development<\/a><\/li>$/;"	function	line:12
-li	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^      <li><a href="#">Web Development<\/a><\/li>$/;"	function	line:13
-li	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^      <li><a href="#">Web Development<\/a><\/li>$/;"	function	line:14
-li	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^      <li><a href="#">Web Development<\/a><\/li>$/;"	function	line:15
-.navigation-overlay	/Users/danny/Desktop/rootpath-training/_sass/rootpath/_navigation-overlay.scss	/^.navigation-overlay {$/;"	function	line:1
-h4	/Users/danny/Desktop/rootpath-training/_sass/rootpath/_navigation-overlay.scss	/^  h4 {$/;"	function	line:18
 h	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<h1>Home Page <strong>Boyahh<\/strong><\/h1>$/;"	function	line:4
 p	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<p>This is some <strong>strong stuff<\/strong> here.<\/p>$/;"	function	line:6
 h	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^<h1>This is a heading one<\/h1>$/;"	function	line:8
@@ -131,3 +114,16 @@ li	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^  <li>Top Bar<\/l
 li	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^  <li>Navigation Overlay<\/li>$/;"	function	line:37
 li	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^  <li>Programme Box<\/li>$/;"	function	line:38
 li	/Users/danny/Desktop/rootpath-training/_layouts/home.html	/^  <li>Course Page Template<\/li>$/;"	function	line:39
+div	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^<div class="navigation-overlay">$/;"	function	line:1
+a	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^  <a class="nav-button-close no-fx" href="#"><\/a>$/;"	function	line:2
+nav	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^  <nav>$/;"	function	line:3
+h	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^    <h4>Courses<\/h4>$/;"	function	line:4
+ul	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^    <ul>$/;"	function	line:5
+li	/Users/danny/Desktop/rootpath-training/_includes/navigation-overlay.html	/^      <li><a class="no-fx" href="{{ page.url }}">{{ page.title }}<\/a><\/li>$/;"	function	line:8
+.navigation-overlay	/Users/danny/Desktop/rootpath-training/_sass/rootpath/_navigation-overlay.scss	/^.navigation-overlay {$/;"	function	line:1
+h4	/Users/danny/Desktop/rootpath-training/_sass/rootpath/_navigation-overlay.scss	/^  h4 {$/;"	function	line:18
+li	/Users/danny/Desktop/rootpath-training/_sass/rootpath/_navigation-overlay.scss	/^  li {$/;"	function	line:28
+a:hover	/Users/danny/Desktop/rootpath-training/_sass/rootpath/_navigation-overlay.scss	/^  a:hover {$/;"	function	line:34
+.nav-button	/Users/danny/Desktop/rootpath-training/_sass/rootpath/_navigation-overlay.scss	/^  .nav-button {$/;"	function	line:38
+.nav-button-close::after	/Users/danny/Desktop/rootpath-training/_sass/rootpath/_navigation-overlay.scss	/^  .nav-button-close::after {$/;"	function	line:47
+.nav-button-open:hover::after	/Users/danny/Desktop/rootpath-training/_sass/rootpath/_navigation-overlay.scss	/^  .nav-button-open:hover::after {$/;"	function	line:54

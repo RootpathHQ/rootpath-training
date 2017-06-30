@@ -9,21 +9,28 @@ html {
     font-size: 14px;
   }
 
-  @media only screen and (min-width: 992px) {
-    font-size: 14.5px;
+  @media only screen and (min-width: 1000px) {
+    font-size: 16px;
   }
 
   @media only screen and (min-width: 1200px) {
-    font-size: 15px;
+    font-size: 18px;
   }
 
   font-family: "Roboto", sans-serif;
   font-weight: normal;
   color: $off-black;
+
+  text-rendering: optimizeLegibility;
+  font-variant-ligatures: common-ligatures;
+  -moz-font-feature-settings: "liga", "clig";
+  -webkit-font-feature-settings: "liga", "clig";
+  font-feature-settings: "liga", "clig";
 }
+
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 400;
-	line-height: 1.1;
+  font-weight: 400;
+  line-height: 1.1;
   letter-spacing: -.02em;
 }
 
@@ -47,13 +54,23 @@ em { font-style: italic; }
 strong {
   box-shadow: inset 0px -0.4em $strong-underline-color;
 }
+
 h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
   font-weight: inherit;
 }
 
 small { font-size: 75%; }
+
 .light { font-weight: 300; }
+
 .thin { font-weight: 200; }
+
+.small-caps {
+  font-variant-caps: small-caps;
+  -moz-font-feature-settings: "smcp";
+  -webkit-font-feature-settings: "smcp";
+  font-feature-settings: "smcp";
+}
 
 a {
   text-decoration: none;
@@ -69,4 +86,12 @@ a {
                   inset 0px -1.5em rgba( $link-color, .5);
     }
   }
+}
+
+p,
+blockquote {
+  font-variant-numeric: oldstyle-nums;
+  -moz-font-feature-settings: "onum";
+  -webkit-font-feature-settings: "onum";
+  font-feature-settings: "onum";
 }
